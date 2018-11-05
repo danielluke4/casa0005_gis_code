@@ -1,0 +1,12 @@
+---
+title: "Assessment Part 1"
+author: "Daniel Luke"
+date: "5 November 2018"
+output: pdf_document
+---
+```{r}
+
+```
+
+This is my first commit to avoid the 5% penalty.
+
